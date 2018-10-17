@@ -8,20 +8,7 @@
 
 ## Source
 
-* [Engine Source](https://github.com/PolygonTek/BlueshiftEngine/releases/tag/v0.5.0)
-* [StreetDodge.7z.001](https://github.com/PolygonTek/BlueshiftDocument/raw/master/StreetDodge/StreetDodge.7z.001)
-* [StreetDodge.7z.002](https://github.com/PolygonTek/BlueshiftDocument/raw/master/StreetDodge/StreetDodge.7z.002)
-
-## Instruction
-
-Download the file StreetDodge.7z.
-
-Run BlueshiftEditor.
-
-Select the StreetDodge folder from the File/Open Project menu.
-and select the stage1.map from the File/Open Scene menu.
-
-Build the platform project from the Project/Build Settings... menu.
+not opened yet.
 
 ## Link
 
