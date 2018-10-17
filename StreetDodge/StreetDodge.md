@@ -18,14 +18,13 @@ Download the file StreetDodge.7z.
 Run BlueshiftEditor.
 
 Select the StreetDodge folder from the File/Open Project menu.
-and select the stage1.map from the File/Open Scene menu.
-
 Build the platform project from the Project/Build Settings... menu.
+And Build this platform project.
 
 ## Link
 
 * [Home](../README.md)
-* [Prev](../BasicGame/BasicGame.md)
+* [Prev](../Demo1/Demo1.md)
 * [Next](../ShootingManiac/ShootingManiac.md)
 
 
