@@ -1,7 +1,7 @@
 
-# Basic Game
+# Demo1
 
-![BasicGame](BasicGame.png)
+![Demo1](BasicGame.png)
 
 ## Source
 
