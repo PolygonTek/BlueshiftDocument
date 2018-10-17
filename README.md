@@ -10,7 +10,7 @@
 
 # Demo Game
 
-* [Basic Game](BasicGame/BasicGame.md)
+* [Demo1](Demo1/Demo1.md)
 * [Street Dodge](StreetDodge/StreetDodge.md)
 * [Shooting Maniac](ShootingManiac/ShootingManiac.md)
 
