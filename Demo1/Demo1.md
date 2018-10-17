@@ -6,7 +6,9 @@
 ## Source
 
 * [Engine Source](https://github.com/PolygonTek/BlueshiftEngine/releases/tag/v0.2.2)
-* [BasicGame.zip](https://github.com/PolygonTek/BlueshiftDocument/raw/master/BasicGame/BasicGame.zip)
+* [Demo1.7z.001](Demo1.7z.001)
+* [Demo1.7z.002](Demo1.7z.002)
+* [Demo1.7z.003](Demo1.7z.003)
 
 ## Instruction
 
