@@ -20,7 +20,7 @@ Run BlueshiftEditor.
 
 Select the ShootingManiac folder from the File/Open Project menu.
 Build the platform project from the Project/Build Settings... menu.
-And Build this platform project.
+And build this platform project.
 
 
 ## Link
