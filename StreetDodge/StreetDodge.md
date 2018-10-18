@@ -13,13 +13,13 @@
 
 ## Instruction
 
-Download the file StreetDodge.7z.
+Download and uncompress the file StreetDodge.7z.
 
 Run BlueshiftEditor.
 
 Select the StreetDodge folder from the File/Open Project menu.
 Build the platform project from the Project/Build Settings... menu.
-And Build this platform project.
+And build this platform project.
 
 ## Link
 
