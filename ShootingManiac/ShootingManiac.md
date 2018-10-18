@@ -14,7 +14,7 @@
 
 ## Instruction
 
-Download the file ShootingManiac.7z.
+Download and uncompress the file ShootingManiac.7z.
 
 Run BlueshiftEditor.
 
