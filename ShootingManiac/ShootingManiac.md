@@ -8,13 +8,12 @@
 
 ## Source
 
-* [Engine Source](https://github.com/PolygonTek/BlueshiftEngine/releases/tag/v0.5.0)
-* [ShootingManiac.7z.001](https://github.com/PolygonTek/BlueshiftDocument/raw/master/ShootingManiac/ShootingManiac.7z.001)
-* [ShootingManiac.7z.002](https://github.com/PolygonTek/BlueshiftDocument/raw/master/ShootingManiac/ShootingManiac.7z.002)
+* [Engine Source](https://github.com/PolygonTek/BlueshiftEngine/releases/tag/v0.6.0)
+* [ShootingManiac.zip](https://github.com/PolygonTek/BlueshiftDocument/releases/download/v0.6.0/ShootingManiac.zip)
 
 ## Instruction
 
-Download and uncompress the file ShootingManiac.7z.
+Download and uncompress the file ShootingManiac.zip.
 
 Run BlueshiftEditor.
 
