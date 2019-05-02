@@ -7,13 +7,12 @@
 
 ## Source
 
-* [Engine Source](https://github.com/PolygonTek/BlueshiftEngine/releases/tag/v0.5.0)
-* [StreetDodge.7z.001](https://github.com/PolygonTek/BlueshiftDocument/raw/master/StreetDodge/StreetDodge.7z.001)
-* [StreetDodge.7z.002](https://github.com/PolygonTek/BlueshiftDocument/raw/master/StreetDodge/StreetDodge.7z.002)
+* [Engine Source](https://github.com/PolygonTek/BlueshiftEngine/releases/tag/v0.6.0)
+* [StreetDodge.zip](https://github.com/PolygonTek/BlueshiftDocument/releases/download/v0.6.0/StreetDodge.zip) 
 
 ## Instruction
 
-Download and uncompress the file StreetDodge.7z.
+Download and uncompress the file StreetDodge.zip.
 
 Run BlueshiftEditor.
 
